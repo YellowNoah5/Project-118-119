@@ -1,0 +1,15 @@
+body {
+background-color: lightsalmon;
+}
+#score {
+    font-size: 35px;
+    margin-left: -1400px; 
+}
+#timer {
+    font-size: 35px;
+    float:right;
+    margin-right: 90px
+}
+#TBsketch {
+    color: blue;
+}
